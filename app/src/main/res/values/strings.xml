@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BucketBudget</string>
+    <string name="title_launchscreen">Launch Screen</string>
+    <string name="title_detail">Detail Activity</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
