@@ -3,4 +3,4 @@ Budgeting Android App that helps plan and achieve bucket list items - work in pr
 
 UI/UX Design:
 
-![Alt text](https://github.com/saijalsuri/CoffeeNow/blob/master/coffeenow_UI.png)
+![Alt text](https://github.com/saijalsuri/CoffeeNow/blob/master/bucketbudget_UI.png)
